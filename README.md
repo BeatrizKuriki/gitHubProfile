@@ -6,7 +6,7 @@
 <br>
 
 <p>Imagem 1: Desktop</p>
-<p align="center"><img src="" width:1000></p>
+<p align="center"><img src="https://github.com/BeatrizKuriki/gitHubProfile/blob/main/assets/img/imgDemo.PNG" width:1000></p>
 
 <br>
 <h2 align="center">:hourglass: Status do projeto </h2>
@@ -38,7 +38,7 @@
 
 <br>
 <h2 align="center"> :file_folder: Acesso ao projeto </h2>
-<p> Você pode acessar o projeto final clicando aqui: </p>
+<p> Você pode acessar o projeto final clicando aqui:https://githubprofile-bia.netlify.app/ </p>
 <br>
 <h2 align="center"> :computer: Tecnologias utilizadas </h2>
 
